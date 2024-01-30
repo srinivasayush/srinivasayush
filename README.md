@@ -1,7 +1,7 @@
 # Ayush Srinivas
 ## Software Developer | Problem Solver | Code Enthusiast
 
-👋 Hello! I'm Ayush Srinivas, a passionate software developer with a knack for crafting elegant solutions to complex problems. My journey in the world of programming has equipped me with a diverse skill set and a commitment to continuous learning.
+👋 Hi! I'm Ayush Srinivas, a passionate software developer who loves to craft elegant solutions to complex problems. My journey in the world of programming has equipped me with a diverse skill set and a commitment to continuous learning.
 
 ### 🛠️ Technologies and Skills
 
@@ -32,7 +32,7 @@
 - ✏️ Docrunner is a powerful command line tool that provides a seamless solution for testing code within markdown files, guaranteeing
 that your readers always have access to accurate and working examples.
 - 🔗 [Link to Article](https://ayushlikestodev.web.app/projects/docrunner/) ➡️
-- 🛠️ **Technologies Used:** List the key technologies and frameworks.
+- 🛠️ **Technologies Used:**
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
